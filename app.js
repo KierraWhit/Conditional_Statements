@@ -19,7 +19,7 @@ else if (question_three =="subtract" || question_three=="Subtract"|| question_th
 else if (question_three =="divide" || question_three=="Divide"|| question_three=="DIVIDE"|| question_three=="division"|| question_three=="Division"|| question_three=="DIVISION"){
     ele.innerHTML= question_one /question_two
 }
-else if (question_three =="multiple" || question_three=="Multiple"|| question_three=="MULTIPLE"|| question_three=="multiplication"|| question_three=="Multiplication"|| question_three=="MULTIPLICATION"){
+else if (question_three =="multiply" || question_three=="Multiply"|| question_three=="MULTIPLY"|| question_three=="multiplication"|| question_three=="Multiplication"|| question_three=="MULTIPLICATION"){
     ele.innerHTML= question_one *question_two
 }
 else{
